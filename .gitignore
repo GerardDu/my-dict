@@ -52,3 +52,6 @@ Desktop.ini
 *.bak
 *.swp
 *.swo
+
+# VS Code
+.vscode/
